@@ -3,4 +3,4 @@
 
 # Name (Please Input your name): MAryschka Aziaka
 
-# Comments: 
+# Comments: The image refuses to load
