@@ -1,0 +1,32 @@
+body {
+  background-color: #c7a1b8; 
+  font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+  text-align: center;
+}
+
+.form-group {
+  margin: 10px;
+}
+
+.form-group input[type="text"] {
+  padding: 15px;
+  margin-top: 10px;
+}
+
+label {
+  font-size: 20px 
+}
+
+
+.submit-btn {
+  background-color: #91b1b3; 
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.submit-btn:hover {
+  background-color: #862203; 
+}

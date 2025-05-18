@@ -1,0 +1,16 @@
+body {
+  background-color: #7b4c7c; 
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 40px;
+}
+
+img {
+  width: 50%;
+  display: block;
+  margin: 20px auto;
+}
